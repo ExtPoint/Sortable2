@@ -1,0 +1,21 @@
+{
+  "name": "Sortable2",
+  "version": "0.0.1",
+  "main": "src/index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ExtPoint/Sortable2"
+  },
+  "devDependencies": {
+    "browserify": "*",
+    "gulp": "*",
+    "gulp-concat": "*",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "*",
+    "vinyl-buffer": "*",
+    "vinyl-source-stream": "*",
+    "watchify": "*"
+  }
+}

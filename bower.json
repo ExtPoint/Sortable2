@@ -1,0 +1,9 @@
+{
+  "name": "Sortable2",
+  "version": "0.1.0",
+  "private": true,
+  "main": "dist/Sortable2.min.js",
+  "dependencies": {
+    "jquery": "*"
+  }
+}
